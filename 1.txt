@@ -1,0 +1,1 @@
+Launching an EC2 instance in AWS allows you to set up a virtual server in the cloud within minutes. This virtual server can host your web apps, run software, or perform automated tasks all without needing a physical machine.
