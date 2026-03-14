@@ -1,0 +1,1 @@
+Here, you will learn how to create and configure an Amazon EC2 instance, exploring essential settings like OS selection, instance type, storage, networking, and security. By the end, you will be able to launch and connect to a secure, scalable cloud server.
